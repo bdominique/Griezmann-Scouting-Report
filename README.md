@@ -5,12 +5,12 @@ After almost two years of rumors and speculation, Atlético Madrid player Antoin
 
 At Atlético, Griezmann mainly occupied a spot as a striker in coach Diego Simeone’s beloved 4-4-2, but he was also capable of playing out wide if the situation required it. Operating mainly as a second striker, Griezmann was often tasked with being the main attacking force of his team; if Atléti were to score, Griezmann was almost certain to be involved. This is a responsibility that he carried very well: in his five seasons at Atléti, Griezmann outperformed his Expected assists in 3 of those seasons, while also outperforming his Expected Goals in every single season and averaging a Key Pass per 90 of 1.56. 
 
-![AG Stats](https://imgur.com/a/IAxpEXN)
+![AG Stats](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/Screenshot%20(204).png)
 _From understat.com_
 
 Griezmann’s position has him as a striker, but in reality he had a somewhat free role in Atlético‘s setup. It wasn’t uncommon to see him drop deep to help aid in buildup or to pop up on either flank to in search of space, which allowed him to exploit the spaces that attacking-minded fullbacks would leave behind. His heatmap from the home league game against Real Madrid illustrates the picture of an attacker who isn’t bound to necessarily one part of the pitch and can drift to different areas.
 
-![AG Heatmap](https://imgur.com/C2U4ODI)
+![AG Heatmap](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/Screenshot%20(206).png)
 _From whoscored.com_
 
 Griezmann can also play off the shoulder of defenders at times, and combined with the strategic timing of his runs can lead to dangerous 1v1 chances for him:
