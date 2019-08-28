@@ -33,7 +33,7 @@ Griezmann’s defensive positioning is especially key to Atlético’s Counter-A
 
 ![chance for Costa 1](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/AD-Costa-1.gif)
 
-[chance for Costa 2]
+![chance for Costa 2](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/AG-Costa-2.gif)
 
 Whoscored.com has Griezmann at 0.8 Tackles, 0.3 interceptions and 0.5 fouls per 90 at Atletico. This gives off the impression that Griezmann can defend when necessary but can sometimes be clumsy when doing so, which isn’t too far off from the truth.
 
