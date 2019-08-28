@@ -25,15 +25,15 @@ One flaw in his game, however, is his tendency to disappear from games where he 
 
 An underrated aspect of Griezmann’s game is his willingness to defend. Both France’s and Atlético’s formation morphs into a hybrid 4-4-1-1/4-5-1 when they’re without the ball, with Griezmann operating as part of the midfield 5 or as the deeper 1. While he can also play as the lone striker in defense and try to be an outlet if his team wins the ball, I think that he’s at his most effective when he drops in to defend. He is more than happy to track back in these defensive systems, and he often is effective at stopping any runs through the middle that opposing midfielders may try:
 
-[v.s Juventus]
+![v.s Juventus](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/AG-Juve-Defend.gif)
 
-[v.s Iceland]
+![v.s Iceland](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/AG-Iceland-Defend.gif)
 
 Griezmann’s defensive positioning is especially key to Atlético’s Counter-Attacking prospects. Another benefit of allowing him to drop in to defend is that is Atléti win the ball back and Griezmann is in an ideal position when this happens, he is more than capable of leading the offensive transition, whether he’s running at defenders or he’s playing a pass to the forward higher up the pitch:
 
-[chance for Costa 1]
+![chance for Costa 1](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/AD-Costa-1.gif)
 
-[chance for COsta 2]
+[chance for Costa 2]
 
 Whoscored.com has Griezmann at 0.8 Tackles, 0.3 interceptions and 0.5 fouls per 90 at Atletico. This gives off the impression that Griezmann can defend when necessary but can sometimes be clumsy when doing so, which isn’t too far off from the truth.
 
