@@ -1,4 +1,4 @@
-# Antoine Griezmann Scouting Report: What type of player is he, and what will he bring to the table at Barcelona?
+# Antoine Griezmann Scouting Report: What skills does he possess, and how will they translate at Barcelona?
 _Brandon Dominique_
 
 After almost two years of rumors and speculation, Atlético Madrid player Antoine Griezmann has finally transferred to FC Barcelona after paying his €120m release clause. Barcelona will be receiving a player who has shown a high degree of tactical flexibility and has already proven to be successful in La Liga, while Atletico will receive some funds that can help replenish their bank account after their massive splurge on João Félix.
