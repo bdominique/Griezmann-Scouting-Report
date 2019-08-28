@@ -17,7 +17,7 @@ Griezmann can also play off the shoulder of defenders at times, and combined wit
 
 ![v.s Juventus](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/lJPwTKw%20-%20Imgur.gif)
 
-[v.s Real Madrid]
+![v.s Real Madrid](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/AG-RM.gif)
 
 Griezmann has also shown the ability to be the assister in this situation. Its not uncommon to see Griezmann make an intelligent pass for deep to the striker that’s playing ahead of him, whether it be Alvaro Morata, Diego Costa or Nikola Kalinić (More on this later).
 
