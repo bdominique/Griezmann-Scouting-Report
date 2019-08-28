@@ -15,7 +15,7 @@ _From whoscored.com_
 
 Griezmann can also play off the shoulder of defenders at times, and combined with the strategic timing of his runs can lead to dangerous 1v1 chances for him:
 
-[v.s Juventus]
+![v.s Juventus](https://github.com/bdominique/Griezmann-Scouting-Report/blob/master/lJPwTKw%20-%20Imgur.gif)
 
 [v.s Real Madrid]
 
